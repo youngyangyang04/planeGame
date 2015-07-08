@@ -12,7 +12,7 @@ public class Bullet extends GameObject{
 	int BulletSpeed = 3;
 	
 	
-
+//buttlet
 	public Bullet(){
 		degree = Math.random()*Math.PI*2;
 		x = Constant.GAME_HEIGHT/2;
